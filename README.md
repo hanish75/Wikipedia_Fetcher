@@ -1,1 +1,2 @@
-# Wikipedia_Fetcher
+-	Engineered a Wikipedia query platform with JSON and HTML result formats.
+-	Employed Spring MVC for the backend infrastructure for enhanced performance.
